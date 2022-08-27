@@ -14,9 +14,7 @@ export default function Home() {
       <div className ="text-white justify-center text-center w-9/12 px=20 py-10 md:py-10 z-10  backdrop-blur-lg sm:mb-10">
         
         <h3 className='text-base  md:font-medium md:text-xl  '> 
-        Olá é bem vindo a GOLD MINDS um grupo de jovens moçambicanos que já alcançou a liberdade financeira e fatura milhares de dólares com o mercado financeiro forex e quer ajudar outros jovens a fazer o mesmo.
-Se chegaste até aqui significa que você está interessado em aprender a como ganhar dinheiro através do mercado financeiro forex e obter a tua liberdade ainda cedo, e nós estamos aqui para ajudar, caso queiras aprender nós estamos a disponibiza aulas grátis,  do zero ao avançado para te ajudar nessa caminhada.
-Para obter acesso as aulas, clique no botão abaixo e terá acesso ao nosso WhatsApp ou
+        Olá e bem vindo a GOLD MINDS um grupo de jovens moçambicanos que já alcançou a liberdade financeira e fatura milhares de dólares com o mercado financeiro forex e quer ajudar outros jovens a fazer o mesmo. Se chegaste até aqui significa que você está interessado em aprender a como ganhar dinheiro através do mercado financeiro forex e obter a tua liberdade financeira ainda cedo, e nós estamos aqui para ajudar, caso queiras aprender nós estamos a disponibiza aulas grátis, do zero ao avançado para te ajudar nessa caminhada. Para obter acesso as aulas, clique no botão abaixo e terá acesso ao nosso WhatsApp ou nos contacte pelo WhatsApp pelo número 863296944.
         </h3>
       </div>
       <Link href={"https://wa.me/message/QO3RNYO2JULRJ1"}>
