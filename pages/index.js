@@ -7,7 +7,7 @@ const image_url="https://images.unsplash.com/photo-1639754390580-2e7437267698?ix
 
 export default function Home() {
   return (
-    <div className="h-screen w-full bg-black justify-center flex items-center flex-col sm:h-screen relative ">
+    <div className="h-full min-h-screen w-full bg-black justify-center flex items-center flex-col sm:h-screen relative ">
 
        <img className='absolute object-cover h-full w-full' src={image_url} alt='whatever'/>
       <img src="https://firebasestorage.googleapis.com/v0/b/goodtimes-a8418.appspot.com/o/WhatsApp%20Image%202022-08-27%20at%2019.35.37.jpeg?alt=media&token=64f22ec9-219d-4a96-98b2-3aaebcee0238"  className='w-40 h-40 z-10 mt-10'/>
