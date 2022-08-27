@@ -19,8 +19,9 @@ export default function Home() {
       </div>
       <Link href={"https://wa.me/message/QO3RNYO2JULRJ1"}>
       <div className="text-white bg-green-500 h-10 py-8 px-20 flex justify-center items-center rounded-full cursor-pointer hover:scale-105 z-10 font-semibold mb-10 mt-10">
+
+        <p className='mr-1'>Whatsapp</p>
         <WhatsAppIcon />
-        <p className='ml-1'>Whatsapp</p>
       </div>
       </Link>
 
