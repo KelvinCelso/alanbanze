@@ -10,7 +10,7 @@ export default function Home() {
     <div className="h-full w-full bg-black justify-center flex items-center flex-col relative md:h-screen md:w-screen">
 
       <img className='absolute object-cover h-full w-full' src={image_url} alt='whatever'/>
-      <img src="https://firebasestorage.googleapis.com/v0/b/goodtimes-a8418.appspot.com/o/WhatsApp%20Image%202022-08-27%20at%2019.35.37.jpeg?alt=media&token=64f22ec9-219d-4a96-98b2-3aaebcee0238"  className='w-40 h-40 z-10 mt-5'/>
+      <img src="https://firebasestorage.googleapis.com/v0/b/goodtimes-a8418.appspot.com/o/WhatsApp%20Image%202022-08-27%20at%2019.35.37.jpeg?alt=media&token=64f22ec9-219d-4a96-98b2-3aaebcee0238"  className='w-40 h-40 z-10 mt-10'/>
       <div className ="text-white justify-center text-center w-9/12  py-10 md:py-10 z-10  ">
         
         <p className='text-base md:font-medium md:text-lg'> 
